@@ -1,13 +1,13 @@
 # 🚧 Road Accident Data Analysis (2023 & 2024)
 
-![Dashboard Thumbnail](https://your-image-link.com/dashboard-thumbnail.png) <!-- Replace with actual link or remove -->
+
 
 ## 📊 Overview
 
 This project presents a comprehensive analysis of road accident data for 2023 and 2024, transforming raw records into meaningful insights. It aims to help stakeholders — including government and transport authorities — make informed decisions for public safety and infrastructure improvements.
 
-> 🔗 **[View Dashboard Demo](https://your-dashboard-link.com)**  
-> *(Replace with actual Power BI/Public dashboard link)*
+> 🔗 **[View Dashboard Demo](Dashboard image.png)**  
+> 
 
 ---
 
