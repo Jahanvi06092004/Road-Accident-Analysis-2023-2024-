@@ -24,7 +24,7 @@ This project presents a comprehensive analysis of road accident data for 2023 an
 | File Name | Description |
 |-----------|-------------|
 | [Road Accident Analysis (2023 & 2024)](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Road%20Accident%20Analyis(2023%20%26%202024).xlsx) | Jupyter Notebook with analysis and visualizations |
-| `Business Report on Road Accidents (2023 & 2024).pptx` | PowerPoint presentation summarizing key insights |
+| `[Business Report on Road Accidents (2023 & 2024)] (https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Business%20Report%20on%20Road%20Accidents(2023%20%26%202024).pptx| PowerPoint presentation summarizing key insights |
 
 
 ---
