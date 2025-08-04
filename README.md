@@ -68,7 +68,7 @@ This project presents a comprehensive analysis of road accident data for 2023 an
    - Segmentation by severity, road type, and vehicle
 
 3. **Visualization**
-   - Created a dynamic, visual dashboard in Excel/Power BI
+   - Created a dynamic, visual dashboard in Excel
 
 4. **Reporting**
    - Presented insights with visual storytelling in PPT
@@ -88,34 +88,17 @@ This project presents a comprehensive analysis of road accident data for 2023 an
 ## ⚙️ Tools Used
 
 - Microsoft Excel  
-- Power BI / Tableau (optional)  
+    
 - Pivot Charts, Conditional Formatting  
 - Data Cleaning in Excel
 
 ---
 
-## 🧪 [Optional] GitHub CI / Data Updates
 
-*Planned Feature (Optional):*
-
-- GitHub Actions for automated updates if API/data feed is integrated
-- Dashboard refresh on new data entry
 
 ---
 
-## 📬 Contact
 
-For collaboration or feedback:
-
-**Jahanvi Mishra**  
-📧 [your_email@example.com]  
-🌐 [github.com/yourusername](https://github.com/yourusername)
-
----
-
-## 📌 License
-
-This project is open for educational and analytical purposes only. Attribution required if reused.
 
 ---
 
