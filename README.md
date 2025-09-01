@@ -6,14 +6,14 @@
 
 ## 📌 Project Overview  
 This project analyzes **417,882 road accident records from 2023–2024** to uncover critical insights on **fatalities, accident-prone locations, and risk factors**.  
-Using **Power BI dashboards**, the analysis helps policymakers, transportation authorities, and road safety organizations make **data-driven interventions**.  
+Using **Excel dashboards**, the analysis helps policymakers,transportation authorities, and road safety organizations make **data-driven interventions**.  
 
 ---
 
 ## 🎯 Problem Statement  
-India faces one of the **highest road accident fatality rates globally**. Despite large datasets being available, they remain **underutilized** for actionable policy-making.  
+India faces one of the **highest road accident fatality rates globally**. Despite large datasets being available, they remain **under-utilized** for actionable policy-making.  
 
-**Need:** Convert raw accident data into insights to guide **safety initiatives, infrastructure investments, and awareness campaigns**.  
+**Need:** Converts raw accident data into insights to guide **safety initiatives, infrastructure investments, and awareness campaigns**.  
 
 ---
 
@@ -26,12 +26,15 @@ India faces one of the **highest road accident fatality rates globally**. Despit
   - Location (Rural/Urban)  
   - Road type (single carriageway, dual carriageway, slip road, etc.)  
   - Time of accident (day/night)  
-  - Road surface condition (dry, wet, snow/ice)  
+  - Road surface condition (dry, wet, snow/ice)
+ 
+    ## 🔗 Live Dashboard  
+👉 [Click here to explore the interactive Excel Dashboard](https://app.powerbi.com/view?r=YOUR-REPORT-LINK-HERE)  
 
 ---
 
 ## 📈 Dashboard Features  
-The interactive **Power BI dashboard** provides:  
+The interactive **Excel dashboard** provides:  
 - ✅ KPIs → Fatal, Serious, and Slight Casualties  
 - ✅ Casualties by Vehicle Type (Cars, Trucks, Bikes, Buses, etc.)  
 - ✅ Monthly Trends (2023 vs 2024)  
@@ -51,8 +54,9 @@ The interactive **Power BI dashboard** provides:
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Power BI** – Dashboard creation & visualization  
-- **Excel** – Data cleaning, preprocessing & KPI extraction  
+  
+- **Excel** – Data cleaning, preprocessing, KPI extraction, Dashboard Creation & Visualization
+-  **Powerpoint** - For documentation and stakeholder management.
 
 ---
 
@@ -74,5 +78,5 @@ By adopting data-backed interventions, stakeholders can:
 
 ---
 
-## 📂 Repository Structure  
+
 
