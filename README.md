@@ -29,7 +29,7 @@ India faces one of the **highest road accident fatality rates globally**. Despit
   - Road surface condition (dry, wet, snow/ice)
  
     ## 🔗 Live Dashboard  
-👉 [Click here to explore the interactive Excel Dashboard](https://app.powerbi.com/view?r=YOUR-REPORT-LINK-HERE)  
+👉 [Click here to explore the interactive Excel Dashboard](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Dashboard%20image.png)  
 
 ---
 
