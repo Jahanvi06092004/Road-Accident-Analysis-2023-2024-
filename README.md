@@ -1,105 +1,78 @@
-# 🚧 Road Accident Data Analysis (2023 & 2024)
+# 🚦 Road Accident Analysis (2023 & 2024)
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1533106418989-88406c7cc8ca?w=1200" alt="Road Safety Banner" width="100%">
+</p>
 
-
-## 📊 Overview
-
-This project presents a comprehensive analysis of road accident data for 2023 and 2024, transforming raw records into meaningful insights. It aims to help stakeholders — including government and transport authorities — make informed decisions for public safety and infrastructure improvements.
-
-> 🔗 **[Dashboard](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Dashboard%20image.png)**  
-> 
-
----
-
-## 🎯 Goals
-
-- Build a centralized dashboard with key indicators
-- Identify accident hotspots by severity, location, time, and vehicle type
-- Support targeted interventions and public safety awareness
+## 📌 Project Overview  
+This project analyzes **417,882 road accident records from 2023–2024** to uncover critical insights on **fatalities, accident-prone locations, and risk factors**.  
+Using **Power BI dashboards**, the analysis helps policymakers, transportation authorities, and road safety organizations make **data-driven interventions**.  
 
 ---
 
-## 📂 Project Files
+## 🎯 Problem Statement  
+India faces one of the **highest road accident fatality rates globally**. Despite large datasets being available, they remain **underutilized** for actionable policy-making.  
 
-| File Name | Description |
-|-----------|-------------|
-| [Road Accident Analysis (2023 & 2024)](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Road%20Accident%20Analyis(2023%20%26%202024).xlsx) | Excel Worksheet with analysis and visualizations |
-| [Business Report on Road Accidents (2023 & 2024).pptx](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Business%20Report%20on%20Road%20Accidents(2023%20%26%202024).pptx).pptx) | PowerPoint presentation summarizing key insights |
-
+**Need:** Convert raw accident data into insights to guide **safety initiatives, infrastructure investments, and awareness campaigns**.  
 
 ---
 
-## 📌 KPIs Tracked
-
-### 🔹 Primary KPIs
-- Total casualties after accidents
-- Casualties by accident severity
-- Max casualties by type of vehicle
-
-### 🔸 Secondary KPIs
-- Casualties by:
-  - Vehicle type
-  - Road type and surface
-  - Area (urban/rural)
-  - Time of day (day/night)
-- Monthly comparison between 2023 & 2024
+## 📊 Dataset Details  
+- **Source:** Government accident statistics & road safety records  
+- **Total Records:** ~417,882  
+- **Fields Covered:**  
+  - Accident type & vehicle type  
+  - Number of casualties (fatal, serious, slight)  
+  - Location (Rural/Urban)  
+  - Road type (single carriageway, dual carriageway, slip road, etc.)  
+  - Time of accident (day/night)  
+  - Road surface condition (dry, wet, snow/ice)  
 
 ---
 
-## 🔍 Key Insights
-
-- 🗓️ **Seasonal spikes** in accidents during specific months
-- 🌆 **Urban areas** see more accidents, but **rural ones are deadlier**
-- 🌙 **Night-time accidents** are more severe, stressing lighting infrastructure
-- 🛣️ **Slippery/damaged surfaces** & **curves** lead to higher fatality rates
-- 📈 Data helps identify **where, when, and why** safety measures are most needed
-
----
-
-## 🧠 Analysis Process
-
-1. **Data Cleaning & Wrangling**
-   - Removed duplicates
-   - Filled missing values
-   - Standardized fields
-
-2. **Exploratory Data Analysis (EDA)**
-   - Trend analysis across months
-   - Segmentation by severity, road type, and vehicle
-
-3. **Visualization**
-   - Created a dynamic, visual dashboard in Excel
-
-4. **Reporting**
-   - Presented insights with visual storytelling in PPT
+## 📈 Dashboard Features  
+The interactive **Power BI dashboard** provides:  
+- ✅ KPIs → Fatal, Serious, and Slight Casualties  
+- ✅ Casualties by Vehicle Type (Cars, Trucks, Bikes, Buses, etc.)  
+- ✅ Monthly Trends (2023 vs 2024)  
+- ✅ Accidents by Road Type (single carriageway, slip roads, one-way streets)  
+- ✅ Rural vs Urban comparison  
+- ✅ Day vs Night analysis  
+- ✅ Road Surface condition impact  
 
 ---
 
-## 👥 Stakeholders
-
-- Ministry of Transport  
-- Road Transport Department  
-- Traffic & Emergency Services  
-- Road Safety Corps  
-- General Public & Media  
+## 🔍 Key Insights  
+- **Rural vs Urban:** Urban accidents (255k) outnumber rural ones (162k).  
+- **Day vs Night:** Night-time accounts for ~113k casualties, showing higher fatality risk.  
+- **High-Risk Roads:** Slip roads & one-way streets show disproportionately high accidents.  
+- **Seasonal Trends:** Casualty spikes in **January and March**.  
 
 ---
 
-## ⚙️ Tools Used
-
-- Microsoft Excel  
-    
-- Pivot Charts, Conditional Formatting  
-- Data Cleaning in Excel
+## 🛠️ Tools & Technologies  
+- **Power BI** – Dashboard creation & visualization  
+- **Excel** – Data cleaning, preprocessing & KPI extraction  
 
 ---
 
-
+## 💡 Strategic Recommendations  
+1. **Targeted rural safety programs** → awareness campaigns + infrastructure improvements.  
+2. **Night-time accident prevention** → better lighting, reflective signage.  
+3. **Policy intervention** for high-risk roads (slip roads, one-way streets).  
+4. **Seasonal road safety campaigns** in January & March.  
+5. **Cross-agency collaboration** → align 6+ agencies for integrated safety action.  
 
 ---
 
-
+## ✅ Conclusion  
+This analysis highlights **critical accident hotspots and risk factors**.  
+By adopting data-backed interventions, stakeholders can:  
+- 📉 Reduce fatalities significantly  
+- 🛣️ Improve road safety infrastructure  
+- 🤝 Align national and state-level agencies for impact  
 
 ---
 
+## 📂 Repository Structure  
 
