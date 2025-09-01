@@ -28,9 +28,7 @@ India faces one of the **highest road accident fatality rates globally**. Despit
   - Time of accident (day/night)  
   - Road surface condition (dry, wet, snow/ice)
  
-    ## 🔗 Live Dashboard  
-👉 [Click here to explore the interactive Excel Dashboard](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Dashboard%20image.png)  
-
+   
 ---
 
 ## 📈 Dashboard Features  
@@ -41,7 +39,11 @@ The interactive **Excel dashboard** provides:
 - ✅ Accidents by Road Type (single carriageway, slip roads, one-way streets)  
 - ✅ Rural vs Urban comparison  
 - ✅ Day vs Night analysis  
-- ✅ Road Surface condition impact  
+- ✅ Road Surface condition impact
+
+   ## 🔗 Live Dashboard  
+👉 [Click here to explore the interactive Excel Dashboard](https://github.com/Jahanvi06092004/Road-Accident-Analysis-2023-2024-/blob/main/Dashboard%20image.png)  
+
 
 ---
 
